@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: /blogg/sitemap.xml
